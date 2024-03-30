@@ -1,7 +1,7 @@
 
 ![viewfinal](https://github.com/ladan-hazrati-web/t-rex-game/assets/119695832/03db840a-3953-432f-8649-df247983caf6)
 **You can see information about my project**
-   Press space key to jump (play on desktop)
+   **Press space key to jump (play on desktop)**
 - [Demo Project](https://ladan-hazrati-web.github.io/t-rex-game/)
 
 - Developed by ladan hazrati
